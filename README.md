@@ -3,7 +3,7 @@
 1. [Data Preprocessing](#data-preprocessing)
 2. [Regression](#regression)
     2.1. [Multiple Linear Regression]
-    2.2. [Polynomial Regression](#polynomial-regression)
+    2.2. [Polynomial Regression]
     2.3. [Support Vector Regression](#support-vector-regression)
     2.4. [Decision Tree Regression](#decision-tree-regression)
     2.5. [Random Forest Regression](#random-forest-regression)
